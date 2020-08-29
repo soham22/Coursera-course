@@ -1,9 +1,6 @@
 * {
 		box-sizing: border-box;
 	}
-	body {
-		background-color: white;
-	}
 	h1 {
 		margin: 100px;
 		text-align: center;
@@ -38,7 +35,7 @@
 		text-align: center;
 		font-size: 125%;
 		font-weight: bold;
-		background-color: white;
+		background-color: #000000;
 		
 	}
 	.sub2 {
@@ -51,7 +48,7 @@
 		text-align: center;
 		font-size: 125%;
 		font-weight: bold;
-		background-color: maroon;
+		background-color: #FF0000;
 		
 	}
 	.sub3 {
@@ -64,7 +61,7 @@
 		text-align: center;
 		font-size: 125%;
 		font-weight: bold;
-		background-color: tomato;
+		background-color: #FF0000;
 		
 	}
 	.content {
